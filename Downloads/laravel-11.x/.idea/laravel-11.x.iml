@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/laravel-11.x/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-11.x/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-11.x/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-11.x/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/laravel/prompts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/guzzlehttp/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/laravel/pint" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/polyfill-php83" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/league/flysystem-local" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/storage/app" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel-11.x/storage/framework" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
